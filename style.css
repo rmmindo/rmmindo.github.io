@@ -1,1 +1,10 @@
-style
+h1{
+	font-family: Arial, serif;
+	color: darkblue;
+	text-align: center;
+}
+h2{
+	font-family: Arial, sans-serif;
+	color: blue;
+	text-align: center;
+}
